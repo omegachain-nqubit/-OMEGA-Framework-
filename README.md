@@ -1,3 +1,6 @@
+[![License: BSL 1.1](https://shields.io)](LICENSE)
+
+
 # -OMEGA-Framework-
 An Axiomatic Governance Framework for Bounded Intelligence
 # Ω: OMEGA Framework
