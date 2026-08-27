@@ -1,0 +1,34 @@
+Business Source License 1.1
+
+Parameters:
+
+Licensed Work: OMEGA Framework (including all source code, architectural specifications, and documentation in this repository).
+Licensor: Gouthon Marzouk Maerksson Pardieu / Omega Strategic Systems
+Additional Use Grant: None. Non-commercial use, academic research, and evaluation are permitted. Production or commercial use is strictly prohibited without a separate license.
+Change Date: 2030-01-01
+Change License: Apache License, Version 2.0
+
+---------------------------------------------------------------------------------------
+
+Terms of the Business Source License 1.1
+
+1. Grant of License. Licensor hereby grants you the right to copy, modify, create 
+derivative works, redistribute, and non-commercially use the Licensed Work. 
+The License terminates automatically upon any breach by you of subsequent terms.
+
+2. Restrictions. You may not use the Licensed Work for production or commercial 
+purposes. Any commercial use requires a separate, explicit license agreement 
+from the Licensor.
+
+3. Change to Open Source. On the Change Date, or upon an earlier date determined 
+by the Licensor, the Licensed Work shall automatically convert and be governed 
+by the Change License (Apache License, Version 2.0).
+
+4. Intellectual Property. All copyright and intellectual property rights in the 
+Licensed Work remain the sole property of the Licensor.
+
+5. Disclaimer of Warranty. THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY 
+OF ANY KIND, EXPRESS OR IMPLIED.
+git add LICENSE README.md
+git commit -m "docs: enforce legal infrastructure with BSL 1.1 license"
+git push origin main
